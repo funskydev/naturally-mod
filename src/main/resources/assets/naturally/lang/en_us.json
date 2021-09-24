@@ -1,0 +1,19 @@
+{
+    
+    "entity.naturally.penguin": "Penguin",
+    "entity.naturally.rat": "Rat",
+
+    "block.naturally.oak_stump" : "Oak Stump",
+    "block.naturally.spruce_stump" : "Spruce Stump",
+    "block.naturally.infusion_table" : "Infusion Table",
+
+    "item.naturally.penguin_spawn_egg": "Penguin Spawn Egg",
+    "item.naturally.rat_spawn_egg": "Rat Spawn Egg",
+    "item.naturally.infusion_table" : "Infusion Table",
+
+    "container.naturally.infusion_table" : "Infusion Table",
+    
+    "subtitle.naturally.penguin.ambient": "Penguin ambient",
+    "subtitle.naturally.penguin.hurt": "Penguin hurt"
+
+}

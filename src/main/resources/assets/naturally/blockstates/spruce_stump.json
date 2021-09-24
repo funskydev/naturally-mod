@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "naturally:block/spruce_stump" },
+        "facing=south": { "model": "naturally:block/spruce_stump", "y": 180 },
+        "facing=west":  { "model": "naturally:block/spruce_stump", "y": 270 },
+        "facing=east":  { "model": "naturally:block/spruce_stump", "y": 90 }
+    }
+}

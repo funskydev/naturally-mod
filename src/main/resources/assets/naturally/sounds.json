@@ -1,0 +1,19 @@
+{
+
+    "penguin.ambient": {
+		"sounds": [
+			"naturally:entity/penguin/ambient1",
+			"naturally:entity/penguin/ambient2"
+		],
+		"subtitle": "subtitle.naturally.penguin.ambient"
+	},
+    "penguin.hurt": {
+		"sounds": [
+			"naturally:entity/penguin/hurt1",
+			"naturally:entity/penguin/hurt2"
+		],
+		"subtitle": "subtitle.naturally.penguin.hurt"
+	}
+
+
+}
